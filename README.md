@@ -35,13 +35,9 @@ alt="Web Analytics"></a></div></noscript>
 <H2><b>Best Performing Cities -- BPC</b></H2>  <Hr>
 
 
-Amidst the shifting economic landscape of recent years, the Best Perofrming Cities rankings provide an objetive framework for evaluation of the relative performance of US metropolitan areas (cities). The rankings leverage 12 mesaures of measures of economic performance that fall into three general categories: labor-market performance, high-tech impact, and access to economic opportunities. 
- <Br>
-   
-  <iframe src="https://public.tableau.com/views/CatSubcat-Sunburst-test_16813245515010/BPC-dash?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
-  <Br>
+The Best Perofrming Cities rankings provide an objetive framework for evaluation of the relative performance of US metropolitan areas (cities). The rankings leverage 12 mesaures of measures of economic performance and access to economic opportunitites. To account for the influence of population size, US metropolitan areas are divided into large and small cities, and large and small cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more, visit the <b><a href="https://milkeninstitute.org/BPC-methodology/" target="_blank"> BPC methodology website. </a> </b>
 
-To account for the influence of population size, US metropolitan areas are divided into large and small cities, and large and small cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. The interactive map below gives users the ability to compare cities' performance at the category and measure level relative to their peers – determined by city size and BPC tier. 
+The interactive map below gives users the ability to compare cities' performance at the category and measure level relative to their peers – determined by city size and BPC tier. 
 
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
@@ -55,7 +51,7 @@ To account for the influence of population size, US metropolitan areas are divid
 
    
 <H2>BPC Report </H2>
--<a href="https://milkeninstitute.org/reports/latin-america-global-opportunity-index" target="_blank"> Global Opportunity Index 2021: Focus on Latin America </a> <br>
+-<a href="https://https://milkeninstitute.org/research-department" target="_blank"> Best Performing Cities 2023: Navigating a Changing Economic Landscape </a> <br>
 
 <Br><Br>
   
