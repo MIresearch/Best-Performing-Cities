@@ -18,15 +18,10 @@ src="https://c.statcounter.com/12339751/0/c196880c/0/"
 alt="Web Analytics"></a></div></noscript>
 <!-- End of Statcounter Code -->
  
-<meta name="twitter:title" content="Global Opportunity Index">
-<meta name="twitter:image" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Best Performing Cities">
 
-<meta property="og:title" content="Global Opportunity Index">
-<meta property="og:image" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta property="og:image:url" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta property="og:image:secure_url" content="https://claudelopezcom.ipage.com/claudelopez/GOI.jpg">
-<meta property="og:url" content="https://miresearch.github.io/Global-Opportunity-Index/">
+<meta property="og:title" content="Best Performing Cities">
+<meta property="og:url" content="https://miresearch.github.io/Best-Performing-Cities/">
 
  </head>
 
