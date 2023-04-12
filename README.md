@@ -35,7 +35,7 @@ alt="Web Analytics"></a></div></noscript>
 <H2><b>Best Performing Cities -- BPC</b></H2>  <Hr>
 
 
-The Best Perofrming Cities rankings provide an objetive framework for evaluation of the relative performance of US metropolitan areas (cities). The rankings leverage 12 mesaures of measures of economic performance and access to economic opportunitites. To account for the influence of population size, US metropolitan areas are divided into large and small cities, and large and small cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more, visit the <b><a href="https://miresearch.github.io/BPC-methodology/" target="_blank"> BPC methodology website. </a> </b>
+The Best Perofrming Cities rankings provide an objetive framework for evaluation of the relative performance of US metropolitan areas (cities). The rankings leverage 12 mesaures of economic performance and access to economic opportunitites. To account for the influence of population size, US metropolitan areas are divided into large and small cities. Large and small cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more, visit the <b><a href="https://miresearch.github.io/BPC-methodology/" target="_blank"> BPC methodology website. </a> </b>
 
 The interactive map below gives users the ability to compare cities' performance at the category and measure level relative to their peers – determined by city size and BPC tier. 
 
