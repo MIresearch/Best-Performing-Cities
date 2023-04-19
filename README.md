@@ -18,7 +18,7 @@ The Best Performing Cities (BPC) rankings provide an objetive framework for eval
  <br>
 To account for the influence of population size, US metropolitan areas are divided into large and small cities, and large and small cities are classified into five tiers, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more about the BPC's large and small cities, use the navigation buttons on top. <br>
  <br>
-The interactive map below gives users the ability to compare cities' performance relative to their peers – determined by city size and ranking tier. To navigate between performance measures falling into different sub-categories, use the buttons in the bottom right corner of the figure.
+The interactive map below gives users the ability to compare cities' performance relative to their peers – determined by city size and ranking tier. To explore performance on different measures, use the buttons in the bottom right corner of the figure.
 
 <H2>Interactive Map</H2> 
  
