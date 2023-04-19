@@ -26,7 +26,7 @@ The interactive map below gives users the ability to compare cities' performance
   <Br>
  
     
-To learn more about how the methdology used for the BPC rankings, visit our <a href="https://miresearch.github.io/BPC-methodology/" target="_blank"><b> BPC methodology website</b></a>.
+To learn more about the methdology used for the BPC rankings, visit our <a href="https://miresearch.github.io/BPC-methodology/" target="_blank"><b> BPC methodology website</b></a>.
   
  <Br>
 
