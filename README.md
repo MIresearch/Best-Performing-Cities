@@ -14,8 +14,8 @@
 
   <a href="https://miresearch.github.io/BPC-Large/" target="_blank"><button class="button button2"><b>Large Cities</b></button></a> 
  
-The Best Perofrming Cities rankings provide an objetive framework for evaluation of the relative performance of US metropolitan areas (cities), based on 12 mesaures of economic performance classified into three categories: labor market performance, high-tech impact, and access to economic opportunities. <br>
-To account for the influence of population size, US metropolitan areas are divided into large and small cities, and large and small cities classified into five tiers, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more about the BPC's large and small cities, use the navigation buttons on top. <br>
+The Best Perofrming Cities rankings provide an objetive framework for evaluation of the relative performance of US metropolitan areas (cities), based on 12 mesaures of economic performance classified into three categories: labor market performance, high-tech impact, and access to economic opportunities. <Br>
+To account for the influence of population size, US metropolitan areas are divided into large and small cities, and large and small cities classified into five tiers, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more about the BPC's large and small cities, use the navigation buttons on top. <Br>
 The interactive map below gives users the ability to compare cities' performance at the category and measure level relative to their peers – determined by city size and ranking tier.
 
 <H2>Interactive Map</H2> 
@@ -24,7 +24,7 @@ The interactive map below gives users the ability to compare cities' performance
   <Br>
  
     
-To learn more about the methodology used to calcualte the BPC rankings and to classify large and small cities into the five tiers, visit our <a href="https://miresearch.github.io/BPC-methodology/" target="_blank"><b> BPC methodology website</b></button></a>.
+To learn more about the methodology used to calcualte the BPC rankings and to classify large and small cities into the five tiers, visit our <a href="https://miresearch.github.io/BPC-methodology/" target="_blank"><b> BPC methodology website</b></a>.
   
  <Br>
 
