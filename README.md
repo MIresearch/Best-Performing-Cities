@@ -23,7 +23,7 @@ The Best Perofrming Cities rankings provide an objetive framework for evaluation
     
 To account for the influence of population size, US metropolitan areas are divided into large and small cities. Large and small cities are further divided into five tiers based on their relative performance, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more about large and small cities' rankings, or about the BPC methodology, use the bottoms below: <br>
    
-  <a href="https://miresearch.github.io/BPC-Large/" target="_blank"><button class="button button2"><b> BPC methodology<b></button></a> <a href="https://miresearch.github.io/BPC-methodology/" target="_blank"><button class="button button2"><b> BPC methodology<b></button></a>
+  <a href="https://miresearch.github.io/BPC-Large/" target="_blank"><button class="button button2"><b> Large Cities<b></button></a> <a href="https://miresearch.github.io/BPC-methodology/" target="_blank"><button class="button button2"><b> BPC methodology<b></button></a>
   
  <Br>
 
