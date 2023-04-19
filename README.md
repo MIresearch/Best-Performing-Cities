@@ -13,6 +13,7 @@
 <H2><b>Best Performing Cities -- BPC</b></H2>  <Hr>
 
   <a href="https://miresearch.github.io/BPC-Large/" target="_blank"><button class="button button2"><b>Large Cities</b></button></a> 
+  <a href="https://miresearch.github.io/BPC-Small/" target="_blank"><button class="button button2"><b>Small Cities</b></button></a> 
  
 The Best Performing Cities (BPC) rankings provide an objetive framework for evaluation of the relative performance of US metropolitan areas, or cities, based on 12 mesaures of economic performance that fall into three categories: labor market, high-tech impact, and access to economic opportunities. <br>
  <br>
