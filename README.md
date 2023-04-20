@@ -15,11 +15,11 @@
   <a href="https://miresearch.github.io/BPC-Large/" target="_blank"><button class="button button2"><b>Large Cities</b></button></a> 
   <a href="https://miresearch.github.io/BPC-Small/" target="_blank"><button class="button button2"><b>Small Cities</b></button></a> 
  
-The Best Performing Cities (BPC) rankings provide an objetive framework for evaluation of the relative performance of US metropolitan areas, or cities, based on 12 mesaures of economic performance that fall into three categories: labor market, high-tech impact, and access to economic opportunities. <br>
+The Best Performing Cities (BPC) rankings provide an objetive framework for evaluation of the relative performance of US metropolitan areas, or cities, based on 12 mesaures of economic performance that fall into three general categories: labor market, high-tech impact, and access to economic opportunities. <br>
  <br>
-To account for the influence of population size, US metropolitan areas are divided into large and small cities, and large and small cities are classified into five tiers, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more about the BPC's large and small cities, use the navigation buttons on top. <br>
- <br>
-The interactive map below gives users the ability to compare cities' performance relative to their peers – determined by city size and ranking tier. To explore performance on different measures, use the buttons in the bottom right corner of the figure.
+To account for the influence of population size, US metropolitan areas are divided into large and small cities, and large and small cities are classified into five tiers, with top-ranked cities in Tier 1 and bottom-ranked cities in Tier 5. To learn more about BPC's large and small cities, use the navigation buttons on top. <br>
+<br>
+The interactive map below compares cities' performance relative to their peers (determined by city size and ranking tier). Use the buttons in the bottom right corner of the figure to explore perofrmance across the 12 BPC components.
 
 <H2>Interactive Map</H2> 
  
